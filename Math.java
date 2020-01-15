@@ -1,8 +1,3 @@
-//
-// Source code recreated from a .class file by IntelliJ IDEA
-// (powered by Fernflower decompiler)
-//
-
 public class Math {
     static final double SpeedLIGHT = 2.99792458E8D;
     static final double e = 2.718281D;
