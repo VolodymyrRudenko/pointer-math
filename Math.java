@@ -3,8 +3,7 @@ public class Math {
     static final double e = 2.718281D;
     static final double Y = 0.577D;
 
-    public Math() {
-    }
+   
 
     static int KvadratTwoNumber(int a, int b) {
         int i = a * b;
